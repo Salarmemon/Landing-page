@@ -1,15 +1,22 @@
-# HyperLaps's Landing page
+# HyperLaps Landing Page
 
+This is a portfolio project for my Odin Project Foundations course.  
+I am already a web developer, and I am strengthening my skills through The Odin Project.
 
-This is a portfolio project formy odin project foundation course. I already a web developer and I am strengthening my skillst through odin project courses. In this project I am goin to createa a landing page for hypothetical  laptop brand.
+In this project, I am creating a landing page for a hypothetical laptop brand called **HyperLaps**.
+
+## 📌 Features
+- Responsive landing page design
+- Modern UI layout
+- Clean and structured code
 
 ## 🛠️ Installation
-Steps to install:
+Steps to run the project locally:
 
 ```bash
 git clone https://github.com/your-username/project-name.git
 cd project-name
-npm install
-.
 
-## Attribution for images
+## Project Goal The goal of this project is to improve layout, styling, and responsive design skills.
+
+## Attributions
