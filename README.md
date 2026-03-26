@@ -16,6 +16,7 @@ Steps to run the project locally:
 ```bash
 git clone https://github.com/your-username/project-name.git
 cd project-name
+```
 
 ## Project Goal The goal of this project is to improve layout, styling, and responsive design skills.
 
