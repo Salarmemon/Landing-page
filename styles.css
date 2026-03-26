@@ -3,13 +3,16 @@
     margin:0;
     padding:0;
 }
+* {
+    border:1px solid red;
+}
 
 header {
     font-family: Roboto, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #1f2937;
     font-size:18px;
     color:#e5e7eb;
-    height: 300px;
+    height: 400px;
     
 }
 h1 {
@@ -20,4 +23,48 @@ h1 {
 .logo {
     font-size: 24px;
     color:#f9faf8;
+    margin:10px;
+
+}
+.nav-section-container {
+    display: flex;
+    justify-content:space-around;
+
+}
+nav {
+    display:flex;
+    gap:10px;
+    justify-content: flex-end;
+    width:75%;
+    margin:10px;
+}
+a {
+    text-decoration: none;
+    color:#e5e7eb;
+}
+.main-heading {
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items: flex-start;
+      width:300px;
+    margin:48px;
+}
+
+.main-button {
+    width: 75px;
+    height:35px;
+    background-color: #3882f3;
+    border-radius: 10px;
+}     
+.img-container {
+    width:200px;
+    height:200px;
+    background-color: #1f2937;
+}
+.container {
+    display:flex;
+    background-color: red;
+    width:100%;
+    height:700px;
 }
